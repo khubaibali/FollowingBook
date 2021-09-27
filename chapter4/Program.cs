@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace chapter4
 {   class TryCatchException
@@ -19,13 +21,52 @@ namespace chapter4
                 Console.WriteLine("Code is still alive");
             }
         }
+
+        public static void ThrowingException(string str)
+        {
+            if(str == null)
+            {
+                throw new ArgumentNullException ("null passed");
+            }
+        }
     }
 
     class Program
     {
+        public static IEnumerable<string> Foo()
+        {
+            yield return "Crazy";
+            yield return "Brown";
+            yield return "Fox";
+        }
         static void Main(string[] args)
         {
-            TryCatchException.dividebyzero(2,0);
+            ////TryCatchException.dividebyzero(2,0);
+            //StreamReader reader = null;
+            //if (File.Exists("file.txt"))
+            //{
+            //    reader = File.OpenText("file.txt");
+            //    Console.WriteLine(reader.ReadToEnd());
+            //}
+            //else
+            //{
+            //    Console.WriteLine("File does not found");
+            //}
+
+            //try
+            //{
+            //    TryCatchException.ThrowingException(null);
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+
+            foreach (string s in Program.Foo())
+                Console.Write(s);
+            
+            
+            
         }
     }
 }
