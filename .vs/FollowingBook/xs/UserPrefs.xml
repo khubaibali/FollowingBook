@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B514C6F1-BD24-466A-A9F0-76D7CAE8F318}|Default">
+  <MonoDevelop.Ide.ItemProperties.chapter3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.chapter1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chapter4/Program.cs">
+    <Files>
+      <File FileName="chapter1/Program.cs" Line="37" Column="1" />
+      <File FileName="chapter3/Program.cs" Line="12" Column="8" />
+      <File FileName="chapter4/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FollowingBook" expanded="True">
+            <Node name="chapter4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.chapter4 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

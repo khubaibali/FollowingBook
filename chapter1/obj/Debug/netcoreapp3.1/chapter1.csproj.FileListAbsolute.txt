@@ -1,0 +1,13 @@
+/Users/khubaibali/Documents/FollowingBook/chapter1/bin/Debug/netcoreapp3.1/chapter1.deps.json
+/Users/khubaibali/Documents/FollowingBook/chapter1/bin/Debug/netcoreapp3.1/chapter1.runtimeconfig.json
+/Users/khubaibali/Documents/FollowingBook/chapter1/bin/Debug/netcoreapp3.1/chapter1.runtimeconfig.dev.json
+/Users/khubaibali/Documents/FollowingBook/chapter1/bin/Debug/netcoreapp3.1/chapter1.dll
+/Users/khubaibali/Documents/FollowingBook/chapter1/bin/Debug/netcoreapp3.1/chapter1.pdb
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.csproj.AssemblyReference.cache
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.AssemblyInfoInputs.cache
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.AssemblyInfo.cs
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.csproj.CoreCompileInputs.cache
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.dll
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.pdb
+/Users/khubaibali/Documents/FollowingBook/chapter1/obj/Debug/netcoreapp3.1/chapter1.genruntimeconfig.cache
