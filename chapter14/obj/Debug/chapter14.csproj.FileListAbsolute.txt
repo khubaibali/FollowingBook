@@ -1,0 +1,6 @@
+/Users/khubaibali/Documents/FollowingBook/chapter14/bin/Debug/chapter14.exe
+/Users/khubaibali/Documents/FollowingBook/chapter14/bin/Debug/chapter14.pdb
+/Users/khubaibali/Documents/FollowingBook/chapter14/obj/Debug/chapter14.csproj.AssemblyReference.cache
+/Users/khubaibali/Documents/FollowingBook/chapter14/obj/Debug/chapter14.csproj.CoreCompileInputs.cache
+/Users/khubaibali/Documents/FollowingBook/chapter14/obj/Debug/chapter14.exe
+/Users/khubaibali/Documents/FollowingBook/chapter14/obj/Debug/chapter14.pdb

@@ -3,7 +3,15 @@ using System.Collections.Generic;
 using System.IO;
 
 namespace chapter4
-{   class TryCatchException
+{
+    class TuplePrac
+    {
+        public static  (string name, double age)  Foo(string name,double age)
+        {
+            return (name, age);
+        }
+    }
+    class TryCatchException
     {
         public static void dividebyzero(int x,int y)
         {
@@ -62,9 +70,16 @@ namespace chapter4
             //    Console.WriteLine(ex.Message);
             //}
 
-            foreach (string s in Program.Foo())
-                Console.Write(s);
-            
+            //foreach (string s in Program.Foo())
+            //    Console.Write(s);
+
+            var boo = ("khubaib", "Ali", "Quadri");
+            Console.WriteLine(boo);
+
+
+            (string name, double age) person = TuplePrac.Foo("Khubaib", 25.5);
+
+            Console.Write(person);
             
             
         }
